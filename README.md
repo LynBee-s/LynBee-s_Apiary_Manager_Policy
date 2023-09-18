@@ -1,4 +1,4 @@
-# LynBee-s_Apiary_Manager_Policy
+# LynBe´s Apiary Manager Policy
 Lyn Bee´s Premium beekeeping record application policy
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of all sales, expenses, harvest records and hive inspections.
 
