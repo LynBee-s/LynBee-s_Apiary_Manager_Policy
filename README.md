@@ -2,7 +2,7 @@
 Lyn Bee´s Premium beekeeping record application policy
 This app was designed to receive and store data in a SQL database on your mobile phone and export a summary of all sales, expenses, harvest records and hive inspections.
 
-#PRIVACY POLICY Last updated: July 09, 2023
+#PRIVACY POLICY Last updated: September 17, 2023
 
 This privacy notice for LynBee´s ('we','us','our'), describes how and why we might collect, store, use, and/or share)'process') your information when you use our services, such as when you:
 
