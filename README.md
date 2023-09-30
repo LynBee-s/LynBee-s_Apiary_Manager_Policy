@@ -14,7 +14,7 @@ Questions or concerns? Reading this privacy notice will help you understand your
 
 The following summary provides key points from our privacy notice:
 
-What personal information de we process? *When you visit, use, or navigate our services, we may process personal information depending on how you interact with us and services, the choices you make, and the products and features you use.*
+What personal information de we process? **When you visit, use, or navigate our services, we may process personal information depending on how you interact with us and services, the choices you make, and the products and features you use.**
 
 Do we process any sensitive personal information? We do not process sensitive personal information.
 
